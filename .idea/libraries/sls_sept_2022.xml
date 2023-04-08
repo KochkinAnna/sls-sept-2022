@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sls-sept-2022">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.serverless/sls-sept-2022.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
